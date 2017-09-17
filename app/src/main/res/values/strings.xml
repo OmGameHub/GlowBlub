@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Glow Blub</string>
+    <string name="on_blue_bulb">On Blue Blub</string>
+    <string name="on_green_bulb">On Green Blub</string>
+</resources>
